@@ -1,0 +1,11 @@
+subscriber_id,first_name,last_name,date_of_birth,email,phone
+BC-001,Alice,Johnson,1965-08-10,alice.j@test.com,5552223333
+BC-002,Charlie,Brown,1972-03-25,charlie.b@test.com,5554445555
+,David,Wilson,1958-12-20,david.wilson@example.com,5556667777
+BC-004,Emma456,Garcia,1990/06/15,emma.garcia@mail.com,555-888-9999
+BC-005,FRANK,LOPEZ,1945-03-30,FRANK.LOPEZ@TEST.COM,+15551112222
+BC-006,"Maria, Jr.",Rodriguez,1982-07-25,maria.rodriguez@health.org,5553334444
+NULL,George,Martinez,1800-01-01,george@,123
+BC-008,Hannah,Anderson,1995-11-18,hannah.anderson@example.com,5557778888
+BC-001,Isaac,Thompson,2025-12-31,isaac.thompson@test.com,(555) 999-0000
+BC-010,  Julia  ,White,1963-04-22,julia.white@mail.com,5552221111

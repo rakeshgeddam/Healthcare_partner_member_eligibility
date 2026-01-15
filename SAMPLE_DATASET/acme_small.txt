@@ -1,0 +1,11 @@
+MBI|FNAME|LNAME|DOB|EMAIL|PHONE
+1234567890A|John|Doe|03/15/1955|john.doe@email.com|5551234567
+9876543210B|Jane|Smith|07/22/1948|jane.smith@email.com|5559876543
+|Alice|Johnson|08/10/1965|alice.j@test.com|5552223333
+4567890123C|Bob123|Williams|InvalidDate|bob.williams@example.com|555-444-5555
+5678901234D|  Charlie  |Brown|1972-03-25|CHARLIE.BROWN@TEST.COM|(555) 333-4444
+6789012345E|Diana|O'Brien|11/30/1980|diana.obrien@mail.com|5556667777
+NULL|Edward|Davis|2030-05-15|edward.davis@email.com|555
+8901234567F|FionaFionaFionaFionaFionaFionaFiona|Miller|06/18/1968|fiona.miller@test.com|5558889999
+9012345678G|George|Taylor|09/25/1975|george.taylor@example.com|5551112222
+0123456789H|Hannah|Moore|12/05/1958|hannah@|5553334444
